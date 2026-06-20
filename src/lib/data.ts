@@ -33,13 +33,13 @@ export const projects: Project[] = [
 ];
 
 export const personalInfo = {
-  name: 'Tu Nombre',
-  title: 'Full Stack Developer',
-  description: 'Desarrollador apasionado por crear experiencias web excepcionales',
+  name: 'Naudy Noa',
+  title: 'Estudiante de Diseño y Desarrollo de Software',
+  description: 'Estudiante apasionado por la tecnología, el diseño de interfaces y el desarrollo de aplicaciones web. Siempre buscando aprender nuevas herramientas y crear soluciones innovadoras.',
   email: 'tu@email.com',
   github: 'https://github.com/tuusuario',
   linkedin: 'https://linkedin.com/in/tuusuario',
-  siteUrl: 'https://tuportafolio.com',
+  siteUrl: 'https://my-portfolio-alpha-ten-16.vercel.app',
   avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
 };
 
